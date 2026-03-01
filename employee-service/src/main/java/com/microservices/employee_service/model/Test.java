@@ -10,6 +10,13 @@ public class Test {
         System.out.println("This is test for merge conflict");
 
 
+        System.out.println("Conflict");
+        System.out.println("Conflict");
+        System.out.println("Conflict");
+        System.out.println("Conflict");
+        System.out.println("Conflict");
+
+
     }
 
 
